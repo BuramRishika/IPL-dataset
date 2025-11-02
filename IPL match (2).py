@@ -7,11 +7,11 @@
 
 
 import pandas as pd
-
+import streamlit as st
 
 # In[2]:
 
-
+st.title("IPL Data Analysis Dashboard")
 data=pd.read_csv("matches(1).csv")
 
 
