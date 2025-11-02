@@ -1,0 +1,578 @@
+SINO,YEAR,City,Date,Team 1,Team 2,Toss_Winner,Toss_Decision,Result_type,Winners,Location
+1,2008,Bangalore,18-04-2008,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,M Chinnaswamy Stadium
+2,2008,Chandigarh,19-04-2008,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali"
+3,2008,Delhi,19-04-2008,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+4,2008,Mumbai,20-04-2008,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,Wankhede Stadium
+5,2008,Kolkata,20-04-2008,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,normal,Kolkata Knight Riders,Eden Gardens
+6,2008,Jaipur,21-04-2008,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+7,2008,Hyderabad,22-04-2008,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal"
+8,2008,Chennai,23-04-2008,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+9,2008,Hyderabad,24-04-2008,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+10,2008,Chandigarh,25-04-2008,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+11,2008,Bangalore,26-04-2008,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,M Chinnaswamy Stadium
+12,2008,Chennai,26-04-2008,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+13,2008,Mumbai,27-04-2008,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,Dr DY Patil Sports Academy
+14,2008,Chandigarh,27-04-2008,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+15,2008,Bangalore,28-04-2008,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,M Chinnaswamy Stadium
+16,2008,Kolkata,29-04-2008,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,Eden Gardens
+17,2008,Delhi,30-04-2008,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Daredevils,Feroz Shah Kotla
+18,2008,Hyderabad,01-05-2008,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal"
+19,2008,Jaipur,01-05-2008,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+20,2008,Chennai,02-05-2008,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk"
+21,2008,Hyderabad,25-05-2008,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+22,2008,Chandigarh,03-05-2008,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+23,2008,Mumbai,04-05-2008,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,Dr DY Patil Sports Academy
+24,2008,Jaipur,04-05-2008,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+25,2008,Bangalore,05-05-2008,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,M Chinnaswamy Stadium
+26,2008,Chennai,06-05-2008,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,"MA Chidambaram Stadium, Chepauk"
+27,2008,Mumbai,07-05-2008,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Dr DY Patil Sports Academy
+28,2008,Delhi,08-05-2008,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Feroz Shah Kotla
+29,2008,Kolkata,08-05-2008,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+30,2008,Jaipur,09-05-2008,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+31,2008,Bangalore,28-05-2008,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,M Chinnaswamy Stadium
+32,2008,Chennai,10-05-2008,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+33,2008,Hyderabad,11-05-2008,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+34,2008,Jaipur,11-05-2008,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+35,2008,Chandigarh,12-05-2008,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+36,2008,Kolkata,13-05-2008,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+37,2008,Mumbai,14-05-2008,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+38,2008,Chandigarh,28-05-2008,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+39,2008,Delhi,15-05-2008,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Delhi Daredevils,Feroz Shah Kotla
+40,2008,Mumbai,16-05-2008,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+41,2008,Delhi,17-05-2008,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,Feroz Shah Kotla
+42,2008,Jaipur,17-05-2008,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+43,2008,Hyderabad,18-05-2008,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal"
+44,2008,Kolkata,18-05-2008,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,Eden Gardens
+45,2008,Bangalore,19-05-2008,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,M Chinnaswamy Stadium
+46,2008,Kolkata,20-05-2008,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Eden Gardens
+47,2008,Mumbai,21-05-2008,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,Wankhede Stadium
+48,2008,Chennai,21-05-2008,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk"
+49,2008,Chandigarh,23-05-2008,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+50,2008,Delhi,24-05-2008,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Feroz Shah Kotla
+51,2008,Chennai,24-05-2008,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk"
+52,2008,Bangalore,03-05-2008,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+53,2008,Kolkata,25-05-2008,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,Eden Gardens
+54,2008,Jaipur,26-05-2008,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+55,2008,Hyderabad,27-05-2008,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal"
+56,2008,Mumbai,30-05-2008,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,Wankhede Stadium
+57,2008,Mumbai,31-05-2008,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings,Wankhede Stadium
+58,2008,Mumbai,01-06-2008,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Dr DY Patil Sports Academy
+59,2009,Cape Town,18-04-2009,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,Newlands
+60,2009,Cape Town,18-04-2009,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,Newlands
+61,2009,Cape Town,19-04-2009,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Newlands
+62,2009,Cape Town,19-04-2009,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Deccan Chargers,Newlands
+63,2009,Port Elizabeth,20-04-2009,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,St George's Park
+64,2009,Durban,21-04-2009,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Kingsmead
+65,2009,Cape Town,22-04-2009,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Deccan Chargers,Newlands
+66,2009,Durban,23-04-2009,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,Delhi Daredevils,Kingsmead
+67,2009,Cape Town,23-04-2009,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,tie,Rajasthan Royals,Newlands
+68,2009,Durban,24-04-2009,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab,Kingsmead
+69,2009,Durban,25-04-2009,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,Kingsmead
+70,2009,Port Elizabeth,26-04-2009,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,Delhi Daredevils,St George's Park
+71,2009,Cape Town,26-04-2009,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Kings XI Punjab,Newlands
+72,2009,Durban,27-04-2009,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,Kingsmead
+73,2009,Port Elizabeth,27-04-2009,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,St George's Park
+74,2009,Centurion,28-04-2009,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,SuperSport Park
+75,2009,Durban,29-04-2009,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Royal Challengers Bangalore,Kingsmead
+76,2009,Durban,29-04-2009,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Kings XI Punjab,Kingsmead
+77,2009,Centurion,30-04-2009,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,SuperSport Park
+78,2009,Centurion,30-04-2009,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,SuperSport Park
+79,2009,East London,01-05-2009,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,Buffalo Park
+80,2009,Durban,01-05-2009,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,Kingsmead
+81,2009,Port Elizabeth,02-05-2009,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,St George's Park
+82,2009,Johannesburg,02-05-2009,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,New Wanderers Stadium
+83,2009,Port Elizabeth,03-05-2009,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab,St George's Park
+84,2009,Johannesburg,03-05-2009,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,New Wanderers Stadium
+85,2009,East London,04-05-2009,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,Buffalo Park
+86,2009,Durban,05-05-2009,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,Kingsmead
+87,2009,Durban,05-05-2009,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,Kingsmead
+88,2009,Centurion,06-05-2009,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,SuperSport Park
+89,2009,Centurion,07-05-2009,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,SuperSport Park
+90,2009,Centurion,07-05-2009,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,SuperSport Park
+91,2009,East London,08-05-2009,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,Buffalo Park
+92,2009,Kimberley,09-05-2009,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,De Beers Diamond Oval
+93,2009,Kimberley,09-05-2009,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,De Beers Diamond Oval
+94,2009,Port Elizabeth,10-05-2009,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,St George's Park
+95,2009,Johannesburg,10-05-2009,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,New Wanderers Stadium
+96,2009,Kimberley,11-05-2009,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Deccan Chargers,De Beers Diamond Oval
+97,2009,Centurion,12-05-2009,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,SuperSport Park
+98,2009,Centurion,12-05-2009,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,SuperSport Park
+99,2009,Durban,13-05-2009,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Delhi Daredevils,Kingsmead
+100,2009,Durban,14-05-2009,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore,Kingsmead
+101,2009,Durban,14-05-2009,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals,Kingsmead
+102,2009,Bloemfontein,15-05-2009,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,OUTsurance Oval
+103,2009,Port Elizabeth,16-05-2009,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,St George's Park
+104,2009,Johannesburg,16-05-2009,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,New Wanderers Stadium
+105,2009,Johannesburg,17-05-2009,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Kings XI Punjab,New Wanderers Stadium
+106,2009,Bloemfontein,17-05-2009,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,OUTsurance Oval
+107,2009,Centurion,18-05-2009,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,SuperSport Park
+108,2009,Johannesburg,19-05-2009,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Royal Challengers Bangalore,New Wanderers Stadium
+109,2009,Durban,20-05-2009,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Kingsmead
+110,2009,Durban,20-05-2009,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,Kingsmead
+111,2009,Centurion,21-05-2009,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,SuperSport Park
+112,2009,Centurion,21-05-2009,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,SuperSport Park
+113,2009,Centurion,22-05-2009,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,SuperSport Park
+114,2009,Johannesburg,23-05-2009,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,New Wanderers Stadium
+115,2009,Johannesburg,24-05-2009,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,New Wanderers Stadium
+116,2010,Mumbai,12-03-2010,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Kolkata Knight Riders,Dr DY Patil Sports Academy
+117,2010,Mumbai,13-03-2010,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians,Brabourne Stadium
+118,2010,Chandigarh,13-03-2010,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali"
+119,2010,Kolkata,14-03-2010,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+120,2010,Chennai,14-03-2010,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,Deccan Chargers,"MA Chidambaram Stadium, Chepauk"
+121,2010,Ahmedabad,15-03-2010,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,"Sardar Patel Stadium, Motera"
+122,2010,Bangalore,16-03-2010,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+123,2010,Kolkata,16-03-2010,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,Eden Gardens
+124,2010,Delhi,17-03-2010,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,Feroz Shah Kotla
+125,2010,Bangalore,18-03-2010,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+126,2010,Delhi,19-03-2010,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,Chennai Super Kings,Feroz Shah Kotla
+127,2010,Cuttack,19-03-2010,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Deccan Chargers,Barabati Stadium
+128,2010,Ahmedabad,20-03-2010,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+129,2010,Mumbai,20-03-2010,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,Brabourne Stadium
+130,2010,Cuttack,21-03-2010,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,Barabati Stadium
+131,2010,Chennai,21-03-2010,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,tie,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk"
+132,2010,Mumbai,22-03-2010,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,Brabourne Stadium
+133,2010,Bangalore,23-03-2010,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+134,2010,Chandigarh,24-03-2010,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali"
+135,2010,Mumbai,25-03-2010,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Brabourne Stadium
+136,2010,Ahmedabad,26-03-2010,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+137,2010,Chandigarh,27-03-2010,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali"
+138,2010,Bangalore,25-03-2010,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Daredevils,M Chinnaswamy Stadium
+139,2010,Ahmedabad,28-03-2010,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+140,2010,Mumbai,28-03-2010,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,Dr DY Patil Sports Academy
+141,2010,Delhi,29-03-2010,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+142,2010,Mumbai,30-03-2010,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Brabourne Stadium
+143,2010,Chennai,31-03-2010,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+144,2010,Delhi,31-03-2010,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+145,2010,Kolkata,01-04-2010,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+146,2010,Chandigarh,02-04-2010,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+147,2010,Chennai,03-04-2010,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+148,2010,Mumbai,03-04-2010,Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,normal,Mumbai Indians,Brabourne Stadium
+149,2010,Kolkata,04-04-2010,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab,Eden Gardens
+150,2010,Delhi,04-04-2010,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+151,2010,Nagpur,05-04-2010,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,Rajasthan Royals,"Vidarbha Cricket Association Stadium, Jamtha"
+152,2010,Chennai,06-04-2010,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+153,2010,Jaipur,07-04-2010,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+154,2010,Kolkata,07-04-2010,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+155,2010,Bangalore,08-04-2010,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,M Chinnaswamy Stadium
+156,2010,Chandigarh,09-04-2010,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+157,2010,Nagpur,10-04-2010,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Deccan Chargers,"Vidarbha Cricket Association Stadium, Jamtha"
+158,2010,Bangalore,10-04-2010,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+159,2010,Delhi,11-04-2010,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,Feroz Shah Kotla
+160,2010,Jaipur,11-04-2010,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,Sawai Mansingh Stadium
+161,2010,Nagpur,12-04-2010,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,"Vidarbha Cricket Association Stadium, Jamtha"
+162,2010,Mumbai,13-04-2010,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Mumbai Indians,Brabourne Stadium
+163,2010,Chennai,13-04-2010,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+164,2010,Jaipur,14-04-2010,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Royal Challengers Bangalore,Sawai Mansingh Stadium
+165,2010,Chennai,15-04-2010,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk"
+166,2010,Dharamsala,16-04-2010,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,Himachal Pradesh Cricket Association Stadium
+167,2010,Bangalore,17-04-2010,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,M Chinnaswamy Stadium
+168,2010,Kolkata,17-04-2010,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,Eden Gardens
+169,2010,Dharamsala,18-04-2010,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium
+170,2010,Delhi,18-04-2010,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,Feroz Shah Kotla
+171,2010,Kolkata,19-04-2010,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Kolkata Knight Riders,Eden Gardens
+172,2010,Mumbai,21-04-2010,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,Dr DY Patil Sports Academy
+173,2010,Mumbai,22-04-2010,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,Dr DY Patil Sports Academy
+174,2010,Mumbai,24-04-2010,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore,Dr DY Patil Sports Academy
+175,2010,Mumbai,25-04-2010,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,Dr DY Patil Sports Academy
+176,2011,Chennai,08-04-2011,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+177,2011,Hyderabad,09-04-2011,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+178,2011,Kochi,09-04-2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore,Nehru Stadium
+179,2011,Delhi,10-04-2011,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians,Feroz Shah Kotla
+180,2011,Mumbai,10-04-2011,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors,Dr DY Patil Sports Academy
+181,2011,Kolkata,11-04-2011,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+182,2011,Jaipur,12-04-2011,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+183,2011,Bangalore,12-04-2011,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,M Chinnaswamy Stadium
+184,2011,Chandigarh,13-04-2011,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+185,2011,Mumbai,13-04-2011,Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,bat,normal,Pune Warriors,Dr DY Patil Sports Academy
+186,2011,Hyderabad,14-04-2011,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal"
+187,2011,Jaipur,15-04-2011,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Sawai Mansingh Stadium
+188,2011,Mumbai,15-04-2011,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,Wankhede Stadium
+189,2011,Chennai,16-04-2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+190,2011,Hyderabad,16-04-2011,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal"
+191,2011,Mumbai,17-04-2011,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Dr DY Patil Sports Academy
+192,2011,Kolkata,17-04-2011,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+193,2011,Kochi,18-04-2011,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,Nehru Stadium
+194,2011,Delhi,19-04-2011,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Deccan Chargers,Feroz Shah Kotla
+195,2011,Mumbai,20-04-2011,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians,Wankhede Stadium
+196,2011,Kolkata,20-04-2011,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala,Eden Gardens
+197,2011,Chandigarh,21-04-2011,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+198,2011,Mumbai,22-04-2011,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,Wankhede Stadium
+199,2011,Kolkata,22-04-2011,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Eden Gardens
+200,2011,Delhi,23-04-2011,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Delhi Daredevils,Feroz Shah Kotla
+201,2011,Hyderabad,24-04-2011,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal"
+202,2011,Jaipur,24-04-2011,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+203,2011,Chennai,25-04-2011,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+204,2011,Delhi,26-04-2011,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Feroz Shah Kotla
+205,2011,Mumbai,27-04-2011,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Chennai Super Kings,Dr DY Patil Sports Academy
+206,2011,Kochi,27-04-2011,Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Deccan Chargers,Nehru Stadium
+207,2011,Delhi,28-04-2011,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Kolkata Knight Riders,Feroz Shah Kotla
+208,2011,Jaipur,29-04-2011,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+209,2011,Bangalore,29-04-2011,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+210,2011,Kochi,30-04-2011,Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,bat,normal,Delhi Daredevils,Nehru Stadium
+211,2011,Kolkata,30-04-2011,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+212,2011,Jaipur,01-05-2011,Pune Warriors,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+213,2011,Chennai,01-05-2011,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+214,2011,Mumbai,02-05-2011,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,Wankhede Stadium
+215,2011,Delhi,02-05-2011,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,Feroz Shah Kotla
+216,2011,Hyderabad,03-05-2011,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+217,2011,Chennai,04-05-2011,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+218,2011,Mumbai,04-05-2011,Mumbai Indians,Pune Warriors,Pune Warriors,field,normal,Mumbai Indians,Dr DY Patil Sports Academy
+219,2011,Kochi,05-05-2011,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala,Nehru Stadium
+220,2011,Hyderabad,05-05-2011,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal"
+221,2011,Bangalore,06-05-2011,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+222,2011,Kolkata,07-05-2011,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,Eden Gardens
+223,2011,Mumbai,07-05-2011,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,Wankhede Stadium
+224,2011,Bangalore,08-05-2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+225,2011,Chandigarh,08-05-2011,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors,"Punjab Cricket Association Stadium, Mohali"
+226,2011,Jaipur,09-05-2011,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,Sawai Mansingh Stadium
+227,2011,Hyderabad,10-05-2011,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal"
+228,2011,Chandigarh,10-05-2011,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+229,2011,Jaipur,11-05-2011,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Sawai Mansingh Stadium
+230,2011,Chennai,12-05-2011,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+231,2011,Indore,13-05-2011,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,Holkar Cricket Stadium
+232,2011,Bangalore,14-05-2011,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+233,2011,Mumbai,14-05-2011,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Deccan Chargers,Wankhede Stadium
+234,2011,Dharamsala,15-05-2011,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium
+235,2011,Indore,15-05-2011,Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala,Holkar Cricket Stadium
+236,2011,Mumbai,16-05-2011,Pune Warriors,Deccan Chargers,Deccan Chargers,field,normal,Deccan Chargers,Dr DY Patil Sports Academy
+237,2011,Dharamsala,17-05-2011,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium
+238,2011,Chennai,18-05-2011,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+239,2011,Mumbai,19-05-2011,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Dr DY Patil Sports Academy
+240,2011,Mumbai,20-05-2011,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,Wankhede Stadium
+241,2011,Dharamsala,21-05-2011,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,Deccan Chargers,Himachal Pradesh Cricket Association Stadium
+242,2011,Delhi,21-05-2011,Delhi Daredevils,Pune Warriors,Delhi Daredevils,bat,no result,,Feroz Shah Kotla
+243,2011,Bangalore,22-05-2011,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+244,2011,Kolkata,22-05-2011,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Eden Gardens
+245,2011,Mumbai,24-05-2011,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Wankhede Stadium
+246,2011,Mumbai,25-05-2011,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+247,2011,Chennai,27-05-2011,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk"
+248,2011,Chennai,28-05-2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+249,2012,Chennai,04-04-2012,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,"MA Chidambaram Stadium, Chepauk"
+250,2012,Kolkata,05-04-2012,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Eden Gardens
+251,2012,Mumbai,06-04-2012,Pune Warriors,Mumbai Indians,Mumbai Indians,field,normal,Pune Warriors,Wankhede Stadium
+252,2012,Jaipur,06-04-2012,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+253,2012,Bangalore,07-04-2012,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+254,2012,Visakhapatnam,07-04-2012,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+255,2012,Jaipur,08-04-2012,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+256,2012,Pune,08-04-2012,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Pune Warriors,Subrata Roy Sahara Stadium
+257,2012,Visakhapatnam,09-04-2012,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+258,2012,Bangalore,10-04-2012,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,M Chinnaswamy Stadium
+259,2012,Delhi,10-04-2012,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Feroz Shah Kotla
+260,2012,Mumbai,11-04-2012,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,Wankhede Stadium
+261,2012,Chennai,12-04-2012,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+262,2012,Chandigarh,12-04-2012,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+263,2012,Kolkata,13-04-2012,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,Eden Gardens
+264,2012,Delhi,19-04-2012,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+265,2012,Pune,14-04-2012,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Pune Warriors,Subrata Roy Sahara Stadium
+266,2012,Kolkata,15-04-2012,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,Eden Gardens
+267,2012,Bangalore,15-04-2012,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Rajasthan Royals,M Chinnaswamy Stadium
+268,2012,Mumbai,16-04-2012,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Wankhede Stadium
+269,2012,Jaipur,17-04-2012,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+270,2012,Bangalore,17-04-2012,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+271,2012,Chandigarh,18-04-2012,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali"
+272,2012,Hyderabad,10-05-2012,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal"
+273,2012,Chennai,19-04-2012,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+274,2012,Chandigarh,20-04-2012,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+275,2012,Chennai,21-04-2012,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+276,2012,Delhi,21-04-2012,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,Pune Warriors,Feroz Shah Kotla
+277,2012,Mumbai,22-04-2012,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,Wankhede Stadium
+278,2012,Cuttack,22-04-2012,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Barabati Stadium
+279,2012,Jaipur,23-04-2012,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Royal Challengers Bangalore,Sawai Mansingh Stadium
+280,2012,Pune,24-04-2012,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,Delhi Daredevils,Subrata Roy Sahara Stadium
+281,2012,Chandigarh,25-04-2012,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali"
+282,2012,Pune,26-04-2012,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Deccan Chargers,Subrata Roy Sahara Stadium
+283,2012,Delhi,27-04-2012,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,Feroz Shah Kotla
+284,2012,Chennai,28-04-2012,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk"
+285,2012,Kolkata,28-04-2012,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+286,2012,Delhi,29-04-2012,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+287,2012,Mumbai,29-04-2012,Deccan Chargers,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+288,2012,Chennai,30-04-2012,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk"
+289,2012,Cuttack,01-05-2012,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,Deccan Chargers,Barabati Stadium
+290,2012,Jaipur,01-05-2012,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Delhi Daredevils,Sawai Mansingh Stadium
+291,2012,Bangalore,02-05-2012,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,M Chinnaswamy Stadium
+292,2012,Pune,03-05-2012,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians,Subrata Roy Sahara Stadium
+293,2012,Chennai,04-05-2012,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+294,2012,Kolkata,05-05-2012,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+295,2012,Chandigarh,05-05-2012,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali"
+296,2012,Mumbai,06-05-2012,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+297,2012,Bangalore,06-05-2012,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+298,2012,Delhi,07-05-2012,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,Feroz Shah Kotla
+299,2012,Pune,08-05-2012,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals,Subrata Roy Sahara Stadium
+300,2012,Hyderabad,08-05-2012,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal"
+301,2012,Mumbai,09-05-2012,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Wankhede Stadium
+302,2012,Jaipur,10-05-2012,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Sawai Mansingh Stadium
+303,2012,Pune,11-05-2012,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,Subrata Roy Sahara Stadium
+304,2012,Kolkata,12-05-2012,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,Eden Gardens
+305,2012,Chennai,12-05-2012,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+306,2012,Jaipur,13-05-2012,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+307,2012,Chandigarh,13-05-2012,Deccan Chargers,Kings XI Punjab,Deccan Chargers,bat,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+308,2012,Bangalore,14-05-2012,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,M Chinnaswamy Stadium
+309,2012,Kolkata,14-05-2012,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Eden Gardens
+310,2012,Delhi,15-05-2012,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+311,2012,Mumbai,16-05-2012,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Kolkata Knight Riders,Wankhede Stadium
+312,2012,Dharamsala,17-05-2012,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium
+313,2012,Delhi,17-05-2012,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,Feroz Shah Kotla
+314,2012,Hyderabad,18-05-2012,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal"
+315,2012,Dharamsala,19-05-2012,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium
+316,2012,Pune,19-05-2012,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Subrata Roy Sahara Stadium
+317,2012,Hyderabad,20-05-2012,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal"
+318,2012,Jaipur,20-05-2012,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians,Sawai Mansingh Stadium
+319,2012,Pune,22-05-2012,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Subrata Roy Sahara Stadium
+320,2012,Bangalore,23-05-2012,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings,M Chinnaswamy Stadium
+321,2012,Chennai,25-05-2012,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+322,2012,Chennai,27-05-2012,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk"
+323,2013,Kolkata,03-04-2013,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+324,2013,Bangalore,04-04-2013,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+325,2013,Hyderabad,05-04-2013,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+326,2013,Delhi,06-04-2013,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Rajasthan Royals,Feroz Shah Kotla
+327,2013,Chennai,06-04-2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,"MA Chidambaram Stadium, Chepauk"
+328,2013,Pune,07-04-2013,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Kings XI Punjab,Subrata Roy Sahara Stadium
+329,2013,Hyderabad,07-04-2013,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+330,2013,Jaipur,08-04-2013,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+331,2013,Mumbai,09-04-2013,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+332,2013,Chandigarh,10-04-2013,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali"
+333,2013,Bangalore,11-04-2013,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+334,2013,Pune,11-04-2013,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Pune Warriors,Subrata Roy Sahara Stadium
+335,2013,Delhi,12-04-2013,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,Feroz Shah Kotla
+336,2013,Mumbai,13-04-2013,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+337,2013,Chennai,13-04-2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+338,2013,Kolkata,14-04-2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+339,2013,Jaipur,14-04-2013,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+340,2013,Chennai,15-04-2013,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Pune Warriors,"MA Chidambaram Stadium, Chepauk"
+341,2013,Chandigarh,16-04-2013,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+342,2013,Bangalore,16-04-2013,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,Royal Challengers Bangalore,M Chinnaswamy Stadium
+343,2013,Pune,17-04-2013,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad,Subrata Roy Sahara Stadium
+344,2013,Jaipur,17-04-2013,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+345,2013,Delhi,18-04-2013,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,Feroz Shah Kotla
+346,2013,Hyderabad,19-04-2013,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+347,2013,Kolkata,20-04-2013,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings,Eden Gardens
+348,2013,Bangalore,20-04-2013,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+349,2013,Delhi,21-04-2013,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,Feroz Shah Kotla
+350,2013,Chandigarh,21-04-2013,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+351,2013,Chennai,22-04-2013,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+352,2013,Bangalore,23-04-2013,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+353,2013,Dharamsala,16-05-2013,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium
+354,2013,Kolkata,24-04-2013,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians,Eden Gardens
+355,2013,Chennai,25-04-2013,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+356,2013,Kolkata,26-04-2013,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,Eden Gardens
+357,2013,Jaipur,27-04-2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+358,2013,Mumbai,27-04-2013,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+359,2013,Chennai,28-04-2013,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+360,2013,Raipur,28-04-2013,Delhi Daredevils,Pune Warriors,Pune Warriors,field,normal,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium
+361,2013,Jaipur,29-04-2013,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+362,2013,Mumbai,29-04-2013,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+363,2013,Pune,30-04-2013,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Chennai Super Kings,Subrata Roy Sahara Stadium
+364,2013,Hyderabad,01-05-2013,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+365,2013,Raipur,01-05-2013,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium
+366,2013,Chennai,02-05-2013,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+367,2013,Pune,02-05-2013,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,Subrata Roy Sahara Stadium
+368,2013,Kolkata,03-05-2013,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders,Eden Gardens
+369,2013,Hyderabad,04-05-2013,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+370,2013,Bangalore,14-05-2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,M Chinnaswamy Stadium
+371,2013,Mumbai,05-05-2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+372,2013,Jaipur,05-05-2013,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+373,2013,Bangalore,09-04-2013,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+374,2013,Jaipur,07-05-2013,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals,Sawai Mansingh Stadium
+375,2013,Mumbai,07-05-2013,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+376,2013,Hyderabad,08-05-2013,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal"
+377,2013,Chandigarh,09-05-2013,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali"
+378,2013,Pune,09-05-2013,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Subrata Roy Sahara Stadium
+379,2013,Delhi,10-05-2013,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,Feroz Shah Kotla
+380,2013,Pune,11-05-2013,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians,Subrata Roy Sahara Stadium
+381,2013,Chandigarh,11-05-2013,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali"
+382,2013,Ranchi,12-05-2013,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,JSCA International Stadium Complex
+383,2013,Jaipur,12-05-2013,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sawai Mansingh Stadium
+384,2013,Delhi,23-04-2013,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,Feroz Shah Kotla
+385,2013,Mumbai,13-05-2013,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,Wankhede Stadium
+386,2013,Ranchi,15-05-2013,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Pune Warriors,JSCA International Stadium Complex
+387,2013,Chennai,14-05-2013,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+388,2013,Mumbai,15-05-2013,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,Wankhede Stadium
+389,2013,Chandigarh,06-05-2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+390,2013,Hyderabad,17-05-2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+391,2013,Dharamsala,18-05-2013,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium
+392,2013,Pune,19-05-2013,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,Pune Warriors,Subrata Roy Sahara Stadium
+393,2013,Bangalore,18-05-2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+394,2013,Hyderabad,19-05-2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+395,2013,Delhi,21-05-2013,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,Feroz Shah Kotla
+396,2013,Delhi,22-05-2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals,Feroz Shah Kotla
+397,2013,Kolkata,24-05-2013,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians,Eden Gardens
+398,2013,Kolkata,26-05-2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,Eden Gardens
+399,2014,Abu Dhabi,16-04-2014,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Sheikh Zayed Stadium
+400,2014,Sharjah,17-04-2014,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Sharjah Cricket Stadium
+401,2014,Abu Dhabi,18-04-2014,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Kings XI Punjab,Sheikh Zayed Stadium
+402,2014,Abu Dhabi,18-04-2014,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sheikh Zayed Stadium
+403,2014,,19-04-2014,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Dubai International Cricket Stadium
+404,2014,,19-04-2014,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Delhi Daredevils,Dubai International Cricket Stadium
+405,2014,Sharjah,20-04-2014,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,Sharjah Cricket Stadium
+406,2014,Abu Dhabi,21-04-2014,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Chennai Super Kings,Sheikh Zayed Stadium
+407,2014,Sharjah,22-04-2014,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kings XI Punjab,Sharjah Cricket Stadium
+408,2014,,23-04-2014,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,Dubai International Cricket Stadium
+409,2014,Sharjah,24-04-2014,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,Sharjah Cricket Stadium
+410,2014,,25-04-2014,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,Dubai International Cricket Stadium
+411,2014,,25-04-2014,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,Dubai International Cricket Stadium
+412,2014,Abu Dhabi,26-04-2014,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Sheikh Zayed Stadium
+413,2014,Abu Dhabi,26-04-2014,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab,Sheikh Zayed Stadium
+414,2014,Sharjah,27-04-2014,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,Delhi Daredevils,Sharjah Cricket Stadium
+415,2014,Sharjah,27-04-2014,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings,Sharjah Cricket Stadium
+416,2014,,28-04-2014,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,Dubai International Cricket Stadium
+417,2014,Abu Dhabi,29-04-2014,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,tie,Rajasthan Royals,Sheikh Zayed Stadium
+418,2014,,30-04-2014,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad,Dubai International Cricket Stadium
+419,2014,Ranchi,02-05-2014,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings,JSCA International Stadium Complex
+420,2014,Mumbai,03-05-2014,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians,Wankhede Stadium
+421,2014,Delhi,03-05-2014,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Feroz Shah Kotla
+422,2014,Bangalore,04-05-2014,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+423,2014,Ahmedabad,05-05-2014,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+424,2014,Delhi,05-05-2014,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Feroz Shah Kotla
+425,2014,Mumbai,06-05-2014,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,Wankhede Stadium
+426,2014,Delhi,07-05-2014,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders,Feroz Shah Kotla
+427,2014,Cuttack,07-05-2014,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,Barabati Stadium
+428,2014,Ahmedabad,08-05-2014,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad,"Sardar Patel Stadium, Motera"
+429,2014,Bangalore,09-05-2014,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,M Chinnaswamy Stadium
+430,2014,Delhi,10-05-2014,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,Feroz Shah Kotla
+431,2014,Mumbai,10-05-2014,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Wankhede Stadium
+432,2014,Cuttack,11-05-2014,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Barabati Stadium
+433,2014,Bangalore,11-05-2014,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Rajasthan Royals,M Chinnaswamy Stadium
+434,2014,Hyderabad,12-05-2014,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal"
+435,2014,Ranchi,13-05-2014,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings,JSCA International Stadium Complex
+436,2014,Bangalore,13-05-2014,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+437,2014,Hyderabad,14-05-2014,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal"
+438,2014,Cuttack,14-05-2014,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Barabati Stadium
+439,2014,Ahmedabad,15-05-2014,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+440,2014,Ranchi,18-05-2014,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore,JSCA International Stadium Complex
+441,2014,Hyderabad,18-05-2014,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+442,2014,Ahmedabad,19-05-2014,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians,"Sardar Patel Stadium, Motera"
+443,2014,Delhi,19-05-2014,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,Feroz Shah Kotla
+444,2014,Hyderabad,20-05-2014,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+445,2014,Kolkata,20-05-2014,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+446,2014,Chandigarh,21-05-2014,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali"
+447,2014,Kolkata,22-05-2014,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,Eden Gardens
+448,2014,Ranchi,22-05-2014,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,JSCA International Stadium Complex
+449,2014,Mumbai,23-05-2014,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,Wankhede Stadium
+450,2014,Chandigarh,23-05-2014,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+451,2014,Bangalore,24-05-2014,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,M Chinnaswamy Stadium
+452,2014,Kolkata,24-05-2014,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+453,2014,Chandigarh,25-05-2014,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+454,2014,Mumbai,25-05-2014,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+455,2014,Kolkata,27-05-2014,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,Eden Gardens
+456,2014,Mumbai,28-05-2014,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,Brabourne Stadium
+457,2014,Mumbai,30-05-2014,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab,Wankhede Stadium
+458,2014,Bangalore,01-06-2014,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,M Chinnaswamy Stadium
+459,2015,Kolkata,08-04-2015,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+460,2015,Chennai,09-04-2015,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+461,2015,Pune,10-04-2015,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals,Maharashtra Cricket Association Stadium
+462,2015,Chennai,11-04-2015,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+463,2015,Kolkata,11-04-2015,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Eden Gardens
+464,2015,Delhi,12-04-2015,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Feroz Shah Kotla
+465,2015,Mumbai,12-04-2015,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab,Wankhede Stadium
+466,2015,Bangalore,13-04-2015,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,M Chinnaswamy Stadium
+467,2015,Ahmedabad,14-04-2015,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+468,2015,Kolkata,30-04-2015,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+469,2015,Pune,15-04-2015,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,normal,Delhi Daredevils,Maharashtra Cricket Association Stadium
+470,2015,Visakhapatnam,16-04-2015,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+471,2015,Mumbai,17-04-2015,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,Wankhede Stadium
+472,2015,Visakhapatnam,18-04-2015,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+473,2015,Pune,18-04-2015,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Maharashtra Cricket Association Stadium
+474,2015,Ahmedabad,19-04-2015,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+475,2015,Bangalore,19-04-2015,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians,M Chinnaswamy Stadium
+476,2015,Delhi,20-04-2015,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Feroz Shah Kotla
+477,2015,Ahmedabad,21-04-2015,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,tie,Kings XI Punjab,"Sardar Patel Stadium, Motera"
+478,2015,Visakhapatnam,22-04-2015,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+479,2015,Bangalore,22-04-2015,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Chennai Super Kings,M Chinnaswamy Stadium
+480,2015,Delhi,23-04-2015,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,Feroz Shah Kotla
+481,2015,Ahmedabad,24-04-2015,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,"Sardar Patel Stadium, Motera"
+482,2015,Mumbai,25-04-2015,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+483,2015,Chennai,25-04-2015,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+484,2015,Delhi,26-04-2015,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Feroz Shah Kotla
+485,2015,Chandigarh,27-04-2015,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali"
+486,2015,Kolkata,07-05-2015,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,Eden Gardens
+487,2015,Bangalore,29-04-2015,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,no result,,M Chinnaswamy Stadium
+488,2015,Chennai,28-04-2015,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+489,2015,Delhi,01-05-2015,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Feroz Shah Kotla
+490,2015,Mumbai,01-05-2015,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians,Wankhede Stadium
+491,2015,Bangalore,02-05-2015,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+492,2015,Hyderabad,02-05-2015,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+493,2015,Chandigarh,03-05-2015,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali"
+494,2015,Mumbai,03-05-2015,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,Rajasthan Royals,Brabourne Stadium
+495,2015,Chennai,04-05-2015,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+496,2015,Kolkata,04-05-2015,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,Eden Gardens
+497,2015,Mumbai,05-05-2015,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians,Wankhede Stadium
+498,2015,Bangalore,06-05-2015,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+499,2015,Mumbai,07-05-2015,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad,Brabourne Stadium
+500,2015,Chennai,08-05-2015,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Mumbai Indians,"MA Chidambaram Stadium, Chepauk"
+501,2015,Kolkata,09-05-2015,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders,Eden Gardens
+502,2015,Raipur,09-05-2015,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium
+503,2015,Mumbai,10-05-2015,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,Wankhede Stadium
+504,2015,Chennai,10-05-2015,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk"
+505,2015,Hyderabad,11-05-2015,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+506,2015,Raipur,12-05-2015,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium
+507,2015,Chandigarh,13-05-2015,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali"
+508,2015,Mumbai,14-05-2015,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,Wankhede Stadium
+509,2015,Hyderabad,15-05-2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+510,2015,Chandigarh,16-05-2015,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali"
+511,2015,Mumbai,16-05-2015,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals,Brabourne Stadium
+512,2015,Bangalore,17-05-2015,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,,M Chinnaswamy Stadium
+513,2015,Hyderabad,17-05-2015,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal"
+514,2015,Mumbai,19-05-2015,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians,Wankhede Stadium
+515,2015,Pune,20-05-2015,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium
+516,2015,Ranchi,22-05-2015,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings,JSCA International Stadium Complex
+517,2015,Kolkata,24-05-2015,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians,Eden Gardens
+518,2016,Mumbai,09-04-2016,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,normal,Rising Pune Supergiants,Wankhede Stadium
+519,2016,Kolkata,10-04-2016,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Eden Gardens
+520,2016,Chandigarh,11-04-2016,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+521,2016,Bangalore,12-04-2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+522,2016,Kolkata,13-04-2016,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Eden Gardens
+523,2016,Rajkot,14-04-2016,Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,bat,normal,Gujarat Lions,Saurashtra Cricket Association Stadium
+524,2016,Delhi,15-04-2016,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Feroz Shah Kotla
+525,2016,Hyderabad,16-04-2016,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+526,2016,Mumbai,16-04-2016,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,Wankhede Stadium
+527,2016,Chandigarh,17-04-2016,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,bat,normal,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+528,2016,Bangalore,17-04-2016,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,M Chinnaswamy Stadium
+529,2016,Hyderabad,18-04-2016,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+530,2016,Chandigarh,19-04-2016,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+531,2016,Mumbai,20-04-2016,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+532,2016,Rajkot,21-04-2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,Saurashtra Cricket Association Stadium
+533,2016,Pune,22-04-2016,Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium
+534,2016,Delhi,23-04-2016,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,Delhi Daredevils,Feroz Shah Kotla
+535,2016,Hyderabad,23-04-2016,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+536,2016,Rajkot,24-04-2016,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,bat,normal,Gujarat Lions,Saurashtra Cricket Association Stadium
+537,2016,Pune,24-04-2016,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,Maharashtra Cricket Association Stadium
+538,2016,Chandigarh,25-04-2016,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+539,2016,Hyderabad,26-04-2016,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,"Rajiv Gandhi International Stadium, Uppal"
+540,2016,Delhi,27-04-2016,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Gujarat Lions,Feroz Shah Kotla
+541,2016,Mumbai,28-04-2016,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Wankhede Stadium
+542,2016,Pune,29-04-2016,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,Maharashtra Cricket Association Stadium
+543,2016,Delhi,30-04-2016,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Delhi Daredevils,Feroz Shah Kotla
+544,2016,Hyderabad,30-04-2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+545,2016,Rajkot,01-05-2016,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Kings XI Punjab,Saurashtra Cricket Association Stadium
+546,2016,Pune,01-05-2016,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,Maharashtra Cricket Association Stadium
+547,2016,Bangalore,02-05-2016,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,M Chinnaswamy Stadium
+548,2016,Rajkot,03-05-2016,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Saurashtra Cricket Association Stadium
+549,2016,Kolkata,04-05-2016,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders,Eden Gardens
+550,2016,Delhi,05-05-2016,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,Feroz Shah Kotla
+551,2016,Hyderabad,06-05-2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+552,2016,Bangalore,07-05-2016,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+553,2016,Chandigarh,07-05-2016,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+554,2016,Visakhapatnam,08-05-2016,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+555,2016,Kolkata,08-05-2016,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,Eden Gardens
+556,2016,Chandigarh,09-05-2016,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+557,2016,Visakhapatnam,10-05-2016,Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+558,2016,Bangalore,11-05-2016,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,M Chinnaswamy Stadium
+559,2016,Hyderabad,12-05-2016,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal"
+560,2016,Visakhapatnam,13-05-2016,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+561,2016,Bangalore,14-05-2016,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+562,2016,Kolkata,14-05-2016,Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,bat,normal,Kolkata Knight Riders,Eden Gardens
+563,2016,Chandigarh,15-05-2016,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+564,2016,Visakhapatnam,15-05-2016,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+565,2016,Kolkata,16-05-2016,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Eden Gardens
+566,2016,Visakhapatnam,17-05-2016,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+567,2016,Bangalore,18-05-2016,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+568,2016,Kanpur,19-05-2016,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,Green Park
+569,2016,Raipur,20-05-2016,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium
+570,2016,Visakhapatnam,21-05-2016,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,bat,normal,Rising Pune Supergiants,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+571,2016,Kanpur,21-05-2016,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions,Green Park
+572,2016,Kolkata,22-05-2016,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,Eden Gardens
+573,2016,Raipur,22-05-2016,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium
+574,2016,Bangalore,24-05-2016,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore,M Chinnaswamy Stadium
+575,2016,Delhi,25-05-2016,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad,Feroz Shah Kotla
+576,2016,Delhi,27-05-2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad,Feroz Shah Kotla
+577,2016,Bangalore,29-05-2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,M Chinnaswamy Stadium
