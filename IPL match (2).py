@@ -12,7 +12,7 @@ import pandas as pd
 # In[2]:
 
 
-data=pd.read_csv("C:/Users/HP/Downloads/matches(1).csv")
+data=pd.read_csv("matches(1).csv")
 
 
 # In[3]:
