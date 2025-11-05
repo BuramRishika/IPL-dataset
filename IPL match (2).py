@@ -20,24 +20,7 @@ if uploaded_file:
     data = pd.read_csv(uploaded_file)
     st.dataframe(data.head())
 
-# Show dataset preview
-st.subheader("Dataset Preview")
-st.dataframe(data.head())
 
-# Example visualization
-st.subheader("Matches Played by Season")
-matches_by_season = data['YEAR'].value_counts().sort_index()
-plt.figure(figsize=(10, 5))
-matches_by_season.plot(kind='bar')
-plt.xlabel('Season')
-plt.ylabel('Number of Matches')
-st.pyplot(plt)
-
-# Example filter
-st.subheader("Filter by Team")
-team = st.selectbox("Select a Team", sorted(data["team1"].unique()))
-filtered = data[(data["team1"] == team) | (data["team2"] == team)]
-st.write(filtered)
 
 
 # In[3]:
