@@ -15,6 +15,10 @@ st.title("IPL Data Analysis Dashboard")
 
 # Load the dataset
 data = pd.read_csv("matches(1).csv")
+uploaded_file = st.file_uploader("Upload your IPL CSV file", type="csv")
+if uploaded_file:
+    data = pd.read_csv(uploaded_file)
+    st.dataframe(data.head())
 
 # Show dataset preview
 st.subheader("Dataset Preview")
@@ -22,7 +26,7 @@ st.dataframe(data.head())
 
 # Example visualization
 st.subheader("Matches Played by Season")
-matches_by_season = data['season'].value_counts().sort_index()
+matches_by_season = data['YEAR'].value_counts().sort_index()
 plt.figure(figsize=(10, 5))
 matches_by_season.plot(kind='bar')
 plt.xlabel('Season')
