@@ -25,10 +25,10 @@ else:
 st.subheader("Dataset Preview")
 st.dataframe(data.head())
 st.subheader("Matches Played by Season")
-matches_by_season = data['season'].value_counts().sort_index()
+matches_by_season = data['YEAR'].value_counts().sort_index()
 plt.figure(figsize=(10, 5))
 matches_by_season.plot(kind='bar')
-plt.xlabel('Season')
+plt.xlabel('YEAR')
 plt.ylabel('Number of Matches')
 st.pyplot(plt)
 
