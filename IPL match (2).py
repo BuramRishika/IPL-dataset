@@ -44,6 +44,17 @@ st.write(filtered)
 
 
 data.head()
+st.markdown("### 🟩 Q1. Which team won the most matches in 2008?")
+if "YEAR" in data.columns and "Winners" in data.columns:
+    matches_2008 = data[data["YEAR"] == 2008]
+    if not matches_2008.empty:
+        most_wins_2008 = matches_2008["Winners"].value_counts().idxmax()
+        win_count = matches_2008["Winners"].value_counts().max()
+        st.markdown(f"**🏆 Answer:** {most_wins_2008} — {win_count} wins in 2008.")
+    else:
+        st.warning("⚠️ No data found for 2008.")
+else:
+    st.error("Columns 'YEAR' or 'Winners' not found in dataset.")
 
 
 #Which team won the most matches in 2008?
