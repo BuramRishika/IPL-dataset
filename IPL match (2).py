@@ -18,6 +18,10 @@ data = pd.read_csv("matches(1).csv")
 uploaded_file = st.file_uploader("Upload your IPL CSV file", type="csv")
 if uploaded_file is None:
     st.stop()
+# Show dataset preview
+st.subheader("Dataset Preview")
+st.dataframe(data.head())
+
 
 
 
