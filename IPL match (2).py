@@ -33,8 +33,8 @@ plt.ylabel('Number of Matches')
 st.pyplot(plt)
 
 st.subheader("Filter by Team")
-team = st.selectbox("Select a Team", sorted(data["team 1"].unique()))
-filtered = data[(data["team 1"] == team) | (data["team 2"] == team)]
+team = st.selectbox("Select a Team", sorted(data["Team 1"].unique()))
+filtered = data[(data["Team 1"] == team) | (data["Team 2"] == team)]
 st.write(filtered)
 
 
