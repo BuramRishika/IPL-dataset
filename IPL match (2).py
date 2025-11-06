@@ -16,8 +16,8 @@ st.title("IPL Data Analysis Dashboard")
 # Load the dataset
 data = pd.read_csv("matches(1).csv")
 uploaded_file = st.file_uploader("Upload your IPL CSV file", type="csv")
-if file is not None:
-    pd.read_csv(file)  # optional, just to check file validity
+if uploaded_file is not None:
+    df = pd.read_csv(uploaded_file)  # optional
     st.success("✅ File uploaded successfully!")
 else:
     st.info("Please upload your IPL dataset (.csv) file.")
